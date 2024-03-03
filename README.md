@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NJneeraj
-- 👀 I’m interested in ..Game Development wit c#
-- 🌱 I’m currently learning ...UnityEngine
+- 👀 I’m a full stack developer
+- 🌱 My tech stack includes Reactjs/Nextjs,Express,Postgres,Nodejs
 ...
 
 <!---
